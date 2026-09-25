@@ -1,5 +1,7 @@
 # Almondbread
 
+This is a separate repo where I'm using Claude to improve Almondbread in ways I couldn't be bothered to do by hand
+
 Almondbread is a GPU-accelerated Mandelbrot set renderer written in C++. It allows you to look around and zoom into the fractal in realtime:
 
 ![](res/mandelzoom_demo.webp)
